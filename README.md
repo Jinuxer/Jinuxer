@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sobre mim / About me
+---
+Saudações a todos!
+<!--->
+Meu nome é Joilton Neri. Graduado, Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-<!--
-**Jinuxer/Jinuxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estudando/aprendendo novas linguagens de Marcação e Programação como:
+<!-------> 
+  * HTML5
+  * CSS3
+  * JavaScript
+  * Python
+- Meu objetivo é tornar-me um Programador Full Stack, além de continuar o aprendizado e aperfeiçoamento nos Sistemas Linux como Debian, Ubuntu e derivados.
